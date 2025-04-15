@@ -55,7 +55,8 @@
 ## 📂 Περιεχόμενα Repository  
 - `Spotify_Clustering.ipynb`: Ανάλυση και εφαρμογή αλγορίθμων clustering.  
 - `data_processing.ipynb`: Προεπεξεργασία και καθαρισμός δεδομένων.  
-- `dataset.csv`: Το dataset που χρησιμοποιήθηκε.  
+- `dataset.csv`: Το dataset που χρησιμοποιήθηκε. 
+Το αρχείο dataset είναι διαθέσιμο και https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset .Το GitHub δεν μπορεί να προβάλλει πολύ μεγάλα αρχεία απευθείας.  
 -`cleaned_dataset.csv`: Το καθαρό dataset που δημιουργήθηκε απο την προεπεξεργασία και  
    τον καθαρισμό δεδομένων. 
 - `requirements.txt`: Λίστα με τις απαιτούμενες βιβλιοθήκες.  
