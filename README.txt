@@ -59,5 +59,5 @@
 Το αρχείο dataset είναι διαθέσιμο και https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset .Το GitHub δεν μπορεί να προβάλλει πολύ μεγάλα αρχεία απευθείας.  
 -`cleaned_dataset.csv`: Το καθαρό dataset που δημιουργήθηκε απο την προεπεξεργασία και  
    τον καθαρισμό δεδομένων. 
-- `requirements.txt`: Λίστα με τις απαιτούμενες βιβλιοθήκες.  
+- `dependencies.txt`: Λίστα με τις απαιτούμενες βιβλιοθήκες.  
 - `graphs`: Αποτελέσματα και γραφήματα της ανάλυσης.
